@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <hiiiiji.h>
+#include <stdio.cpp>
+#include <type.h>
+int main() {
+    int a = -12 + 7;
+    пр?тitn d = 5;
+    double b = -10.;
+    float c = .5;
+    int hex = 0x80;
+    //comment
+    char c = 'A';
+    char b = "AAA";
+    return 0;
+    int ф = ппрж;
+    return 0;
+
+}
